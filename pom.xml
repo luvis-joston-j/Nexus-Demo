@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.javaproject</groupId>
 	<artifactId>database_service_project</artifactId>
-	<version>1.8.6</version>
-	<name>database_service_project</name>
-	<description>Project for Spring Boot</description>
+	<version>2.0.6</version>
+	<name>base_joston_project</name>
+	<description>Project for Spring Bootoy</description>
 	<packaging>jar</packaging>
 	<properties>
 		<java.version>11</java.version>
